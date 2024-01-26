@@ -1,5 +1,5 @@
 # Fuzzy Systems
-- [x] Fuzzy Sets
+- [x] [Fuzzy Sets](https://github.com/khoaht312/computational-intelligence/blob/main/FuzzySystems/Fuzzysets.ipynb)
 - [ ] Fuzzy Logic And Reasoning
 - [ ] Fuzzy Inference Systems
 # Artificial Neural Networks (ANN)
