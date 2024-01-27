@@ -1,7 +1,8 @@
 # Fuzzy Systems
 - [x] [Fuzzy Sets](https://github.com/khoaht312/computational-intelligence/blob/main/FuzzySystems/Fuzzysets.ipynb)
 - [x] [Fuzzy Logic And Reasoning](https://github.com/khoaht312/computational-intelligence/blob/main/FuzzySystems/Fuzzy_Logic_and_Reasoning.ipynb)
-- [ ] Fuzzy Inference Systems
+- [ ] Fuzzy Controllers
+- [ ] Rough Sets
 # Artificial Neural Networks (ANN)
 - [ ] The Artificial Neuron
 - [ ] Supervised Learning Neural Networks
