@@ -3,7 +3,7 @@
 - [x] [Fuzzy Logic And Reasoning](https://github.com/khoaht312/computational-intelligence/blob/main/FuzzySystems/Fuzzy_Logic_and_Reasoning.ipynb)
 - [x] [Fuzzy Control System](https://github.com/khoaht312/computational-intelligence/blob/main/FuzzySystems/Fuzzy_Controller.ipynb)
 # Artificial Neural Networks (ANN)
-- [ ] The Artificial Neuron
+- [x] [The Artificial Neuron](https://github.com/khoaht312/computational-intelligence/blob/main/ANN/AN.ipynb)
 - [ ] Supervised Learning Neural Networks
 - [ ] Unsupervised Learning Neural Networks
 - [ ] Radial Basis Function Networks
